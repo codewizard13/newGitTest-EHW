@@ -146,6 +146,7 @@ sub nameBar {
 #
 #    02/13/17 - Began working on version 2.
 #             - Cleaned up file and section documentation.
-#             - 
+#             - STUCK trying to figure out how to get
+#                  %APPDATA% path in GitBash Perl on Win 10.
 #
 #================================================================
